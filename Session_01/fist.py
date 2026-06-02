@@ -4,4 +4,4 @@ print("Hello World")
 #     print(i)
 
 for i in "Devanshu's":
-    print(i)
+    print(i);
