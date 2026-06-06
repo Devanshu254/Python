@@ -29,3 +29,6 @@ print({1,2,3,4,5})
 
 # Dictionary
 print({"Name": "Devanshu", "Gender": "Male"})
+
+# Type
+print(type(6))
