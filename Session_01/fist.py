@@ -1,10 +1,3 @@
-print("Devanshu")
 print("Hello World")
-# for i in "Devanshu":
-#     print(i)
-
-for i in "Devanshu's":
-    print(i);
-
-# test commit
-# test commit 2
+print("Hello World", 1, 1.5, True)
+print("Hello World", 1, 1.2, True, sep="/")
