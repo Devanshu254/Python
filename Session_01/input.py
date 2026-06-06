@@ -16,3 +16,8 @@ print(type(first_num)) # Still the value is string.
 # Implicit: Type conversion means where interpreter do conversion automatically.
 print(5+5.6) # Example of Implicit type conversion.
 # Explicit: Type conversion means 
+
+# Better way to write above program.
+num1 = int(input("Enter the number 1: "))
+num2 = int(input("Enter the number 2: "))
+print(num1+num2)
