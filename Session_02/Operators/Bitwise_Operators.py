@@ -9,3 +9,9 @@ print(2^3)
 
 # Bitwise not - It will convert 1 to 0 and 0 to 1. But first they will convert into binary and then the operation will be performed.
 print(~2)
+
+# Bitwise left shift - It will shift the bits to the left and fill the rightmost bits with 0. But first they will convert into binary and then the operation will be performed.
+print(2<<1)
+
+# Bitwise right shift - It will shift the bits to the right and fill the leftmost bits with 0. But first they will convert into binary and then the operation will be performed.
+print(2>>1)
