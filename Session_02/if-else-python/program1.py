@@ -9,3 +9,10 @@ if email == 'devanshujha8305@gmail.com' and password == '1234':
     print("You are authorized")
 else:
     print("You are not authorized")
+
+"""
+if condition:
+    #code
+else:
+    #code
+"""
