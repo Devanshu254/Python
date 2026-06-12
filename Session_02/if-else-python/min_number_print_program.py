@@ -8,5 +8,7 @@ if a<b and a<c:
     print("a is min", a)
 elif b<a and b<c:
     print("b is min", b)
+elif c<a and c<b:
+    print("c is min ", c)
 else:
-    print("c is min", c)
+    print("All are equal")
