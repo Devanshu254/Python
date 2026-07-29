@@ -6,3 +6,11 @@
 # There are two types of loops in python.
 # 1. For Loop.
 # 2. While Loop.
+
+# program to print number
+# Use Pythontutor in order to visualize any program.
+number = int(input("Enter the number: "))
+i = 1
+while i<11:
+    print(number * i)
+    i = i+1
