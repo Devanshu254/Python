@@ -1,4 +1,4 @@
 """
 In Python, strings are a sequence of Unicodes characters.
-1. Creating Strings.
+Difference between unicodes and ascii.
 """
