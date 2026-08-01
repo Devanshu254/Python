@@ -19,3 +19,6 @@ print(s[0:6:2])
 # We can use negative indexing as well.
 print(s[-1:-6:-1])
 print(s[6:0:-1])
+
+# Reverse a given string.
+print(s[::-1])
