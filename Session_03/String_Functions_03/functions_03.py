@@ -1,3 +1,8 @@
+"""
+1. Count
+2. Find
+3. Index
+"""
 print('my name is nitish'.count('i'))
 # 3
 

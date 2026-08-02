@@ -1,3 +1,7 @@
+"""
+1. Endswith
+2. Startswith
+"""
 # Endswith function
 print('my name is Devanshu'.endswith('shu'))
 # True
