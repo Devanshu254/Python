@@ -1,4 +1,5 @@
 """
+Note: As Strings are immutable so no function is changing the original string. All the functions are creating new string in the memory and printing it.
 Common Functions:
 1. len 
 2. max   
