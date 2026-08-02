@@ -2,7 +2,7 @@
 1. split
 2. join
 3. replace
-4. strip -> removes the spaces.
+4. strip -> removes the spaces. End one and first one not the middle one.
 """
 print('hi my name is Devanshu'.split())
 # ['hi', 'my', 'name', 'is', 'Devanshu']
