@@ -1,1 +1,1 @@
-s.capitalize()
+'my name is nitish'.count('i')
