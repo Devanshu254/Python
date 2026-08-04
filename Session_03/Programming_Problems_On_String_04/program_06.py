@@ -9,5 +9,5 @@ count = len(words)
 
 print("Number of words ", count)
 
-# Without using split - see program_07
+# Without using split.
 
